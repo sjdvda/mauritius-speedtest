@@ -1,0 +1,33 @@
+{
+    "type": "result",
+    "timestamp": "2020-01-30T20:46:50Z",
+    "ping": {
+        "jitter": 0.436,
+        "latency": 56.202
+    },
+    "download": {
+        "bandwidth": 11730126,
+        "bytes": 117296200,
+        "elapsed": 10205
+    },
+    "upload": {
+        "bandwidth": 4101619,
+        "bytes": 37582064,
+        "elapsed": 9306
+    },
+    "packetLoss": 0,
+    "isp": "Mauritius Telecom",
+    "server": {
+        "id": 1285,
+        "name": "Vodacom Business",
+        "location": "Durban",
+        "country": "South Africa",
+        "host": "speedtest.dne.vodacombusiness.co.za",
+        "port": 8080,
+        "ip": "41.0.144.228"
+    },
+    "result": {
+        "id": "30e5615e-b254-4fbe-a01b-586dad720eba",
+        "url": "https://www.speedtest.net/result/c/30e5615e-b254-4fbe-a01b-586dad720eba"
+    }
+}
