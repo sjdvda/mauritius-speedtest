@@ -1,20 +1,20 @@
 {
     "LION": {
         "type": "result",
-        "timestamp": "2020-02-09T00:00:32Z",
+        "timestamp": "2020-02-09T13:32:30Z",
         "ping": {
-            "jitter": 0.422,
-            "latency": 92.752
+            "jitter": 0.466,
+            "latency": 86.208
         },
         "download": {
-            "bandwidth": 12434455,
-            "bytes": 106342704,
-            "elapsed": 8906
+            "bandwidth": 13046709,
+            "bytes": 123697000,
+            "elapsed": 10002
         },
         "upload": {
-            "bandwidth": 4105609,
-            "bytes": 59407272,
-            "elapsed": 15014
+            "bandwidth": 4260788,
+            "bytes": 41171288,
+            "elapsed": 9905
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -28,28 +28,28 @@
             "ip": "41.188.35.93"
         },
         "result": {
-            "id": "80a3cdff-d304-471d-b611-ee3778bca171",
-            "url": "https://www.speedtest.net/result/c/80a3cdff-d304-471d-b611-ee3778bca171"
+            "id": "88c3c6a0-7562-4869-ad47-bc14e21e8379",
+            "url": "https://www.speedtest.net/result/c/88c3c6a0-7562-4869-ad47-bc14e21e8379"
         }
     },
     "SAFE1": {
         "type": "result",
-        "timestamp": "2020-02-09T00:01:10Z",
+        "timestamp": "2020-02-09T13:33:07Z",
         "ping": {
-            "jitter": 0.445,
-            "latency": 301.365
+            "jitter": 4.38,
+            "latency": 450.745
         },
         "download": {
-            "bandwidth": 11564441,
-            "bytes": 132467464,
-            "elapsed": 15013
+            "bandwidth": 11684282,
+            "bytes": 133666544,
+            "elapsed": 15016
         },
         "upload": {
-            "bandwidth": 3387077,
-            "bytes": 44828332,
-            "elapsed": 15010
+            "bandwidth": 73292,
+            "bytes": 1022000,
+            "elapsed": 15015
         },
-        "packetLoss": 0,
+        "packetLoss": 5.154639175257732,
         "isp": "Mauritius Telecom",
         "server": {
             "id": 24682,
@@ -61,26 +61,26 @@
             "ip": "112.79.47.25"
         },
         "result": {
-            "id": "4290baef-3f41-460d-9d0e-f80ba7f7d4d5",
-            "url": "https://www.speedtest.net/result/c/4290baef-3f41-460d-9d0e-f80ba7f7d4d5"
+            "id": "68919ee8-789f-4411-9159-74ee83b39798",
+            "url": "https://www.speedtest.net/result/c/68919ee8-789f-4411-9159-74ee83b39798"
         }
     },
     "SAFE2": {
         "type": "result",
-        "timestamp": "2020-02-09T00:01:35Z",
+        "timestamp": "2020-02-09T13:33:32Z",
         "ping": {
-            "jitter": 0.309,
-            "latency": 56.793
+            "jitter": 0.198,
+            "latency": 57.338
         },
         "download": {
-            "bandwidth": 12938163,
-            "bytes": 160903400,
-            "elapsed": 12807
+            "bandwidth": 13784498,
+            "bytes": 151704000,
+            "elapsed": 11403
         },
         "upload": {
-            "bandwidth": 4202575,
-            "bytes": 35802640,
-            "elapsed": 8615
+            "bandwidth": 4324665,
+            "bytes": 47808960,
+            "elapsed": 11311
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -94,26 +94,26 @@
             "ip": "41.0.144.228"
         },
         "result": {
-            "id": "f0ed2304-fc50-4900-80c9-7e84c411a6ac",
-            "url": "https://www.speedtest.net/result/c/f0ed2304-fc50-4900-80c9-7e84c411a6ac"
+            "id": "5d7eb8a7-ccda-4fc7-bda9-b29df08d144e",
+            "url": "https://www.speedtest.net/result/c/5d7eb8a7-ccda-4fc7-bda9-b29df08d144e"
         }
     },
     "SAFE3": {
         "type": "result",
-        "timestamp": "2020-02-09T00:02:08Z",
+        "timestamp": "2020-02-09T13:34:03Z",
         "ping": {
-            "jitter": 0.424,
-            "latency": 94.272
+            "jitter": 0.589,
+            "latency": 97.91
         },
         "download": {
-            "bandwidth": 1154887,
-            "bytes": 17453800,
-            "elapsed": 15013
+            "bandwidth": 718216,
+            "bytes": 11197200,
+            "elapsed": 15005
         },
         "upload": {
-            "bandwidth": 3918301,
-            "bytes": 54829600,
-            "elapsed": 14602
+            "bandwidth": 4171368,
+            "bytes": 47120056,
+            "elapsed": 11700
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -127,26 +127,26 @@
             "ip": "122.0.31.38"
         },
         "result": {
-            "id": "aae84392-ee4c-4465-9f39-a297a91b3c05",
-            "url": "https://www.speedtest.net/result/c/aae84392-ee4c-4465-9f39-a297a91b3c05"
+            "id": "0632ca32-e6cf-4ea3-9c0a-0d95cc805b30",
+            "url": "https://www.speedtest.net/result/c/0632ca32-e6cf-4ea3-9c0a-0d95cc805b30"
         }
     },
     "MARS": {
         "type": "result",
-        "timestamp": "2020-02-09T00:02:40Z",
+        "timestamp": "2020-02-09T13:34:32Z",
         "ping": {
-            "jitter": 0.639,
-            "latency": 144.651
+            "jitter": 0.334,
+            "latency": 144.552
         },
         "download": {
-            "bandwidth": 13553783,
-            "bytes": 164572904,
-            "elapsed": 13200
+            "bandwidth": 13413948,
+            "bytes": 185691004,
+            "elapsed": 14902
         },
         "upload": {
-            "bandwidth": 3600146,
-            "bytes": 52055448,
-            "elapsed": 15000
+            "bandwidth": 3919403,
+            "bytes": 36774656,
+            "elapsed": 9815
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -160,8 +160,8 @@
             "ip": "102.163.98.18"
         },
         "result": {
-            "id": "3841b3a7-dad2-445d-9f1e-637352b2aa93",
-            "url": "https://www.speedtest.net/result/c/3841b3a7-dad2-445d-9f1e-637352b2aa93"
+            "id": "e85656d7-aa37-4b9e-a1df-479cd07c2f02",
+            "url": "https://www.speedtest.net/result/c/e85656d7-aa37-4b9e-a1df-479cd07c2f02"
         }
     }
 }

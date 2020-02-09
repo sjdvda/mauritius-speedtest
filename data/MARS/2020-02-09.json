@@ -31,5 +31,71 @@
             "id": "3841b3a7-dad2-445d-9f1e-637352b2aa93",
             "url": "https://www.speedtest.net/result/c/3841b3a7-dad2-445d-9f1e-637352b2aa93"
         }
+    },
+    {
+        "type": "result",
+        "timestamp": "2020-02-09T13:34:32Z",
+        "ping": {
+            "jitter": 0.334,
+            "latency": 144.552
+        },
+        "download": {
+            "bandwidth": 13413948,
+            "bytes": 185691004,
+            "elapsed": 14902
+        },
+        "upload": {
+            "bandwidth": 3919403,
+            "bytes": 36774656,
+            "elapsed": 9815
+        },
+        "packetLoss": 0,
+        "isp": "Mauritius Telecom",
+        "server": {
+            "id": 27454,
+            "name": "Emtel Ltd",
+            "location": "Port Mathurin",
+            "country": "Mauritius",
+            "host": "speedtest5-1g.emtelnet.com",
+            "port": 8080,
+            "ip": "102.163.98.18"
+        },
+        "result": {
+            "id": "e85656d7-aa37-4b9e-a1df-479cd07c2f02",
+            "url": "https://www.speedtest.net/result/c/e85656d7-aa37-4b9e-a1df-479cd07c2f02"
+        }
+    },
+    {
+        "type": "result",
+        "timestamp": "2020-02-09T13:30:06Z",
+        "ping": {
+            "jitter": 4.429,
+            "latency": 145.037
+        },
+        "download": {
+            "bandwidth": 13544898,
+            "bytes": 180618032,
+            "elapsed": 14703
+        },
+        "upload": {
+            "bandwidth": 4238673,
+            "bytes": 41182080,
+            "elapsed": 10211
+        },
+        "packetLoss": 0,
+        "isp": "Mauritius Telecom",
+        "server": {
+            "id": 27454,
+            "name": "Emtel Ltd",
+            "location": "Port Mathurin",
+            "country": "Mauritius",
+            "host": "speedtest5-1g.emtelnet.com",
+            "port": 8080,
+            "ip": "102.163.98.18"
+        },
+        "result": {
+            "id": "f363a1db-29ce-4683-a786-72d401cfde2c",
+            "url": "https://www.speedtest.net/result/c/f363a1db-29ce-4683-a786-72d401cfde2c"
+        }
     }
 ]
