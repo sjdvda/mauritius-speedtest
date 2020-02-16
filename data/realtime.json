@@ -1,20 +1,20 @@
 {
     "LION": {
         "type": "result",
-        "timestamp": "2020-02-15T04:00:30Z",
+        "timestamp": "2020-02-16T04:00:34Z",
         "ping": {
-            "jitter": 0.995,
-            "latency": 89.82
+            "jitter": 0.98,
+            "latency": 88.731
         },
         "download": {
-            "bandwidth": 13206604,
-            "bytes": 140056000,
-            "elapsed": 11213
+            "bandwidth": 12026695,
+            "bytes": 134642304,
+            "elapsed": 11604
         },
         "upload": {
-            "bandwidth": 3722228,
-            "bytes": 36152216,
-            "elapsed": 9812
+            "bandwidth": 3266389,
+            "bytes": 44473264,
+            "elapsed": 14401
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -28,26 +28,26 @@
             "ip": "41.188.35.93"
         },
         "result": {
-            "id": "147c94a0-49d5-49cb-8c4f-929e9667e4ec",
-            "url": "https://www.speedtest.net/result/c/147c94a0-49d5-49cb-8c4f-929e9667e4ec"
+            "id": "6e08ed71-bc17-40fb-914f-4221c145fb72",
+            "url": "https://www.speedtest.net/result/c/6e08ed71-bc17-40fb-914f-4221c145fb72"
         }
     },
     "SAFE1": {
         "type": "result",
-        "timestamp": "2020-02-15T04:01:08Z",
+        "timestamp": "2020-02-16T04:01:11Z",
         "ping": {
-            "jitter": 0.3,
-            "latency": 324.467
+            "jitter": 0.864,
+            "latency": 324.96
         },
         "download": {
-            "bandwidth": 9707964,
-            "bytes": 121917012,
+            "bandwidth": 9955296,
+            "bytes": 116622770,
             "elapsed": 15008
         },
         "upload": {
-            "bandwidth": 2950583,
-            "bytes": 41226369,
-            "elapsed": 15010
+            "bandwidth": 2838326,
+            "bytes": 38058499,
+            "elapsed": 15003
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -61,26 +61,26 @@
             "ip": "112.79.47.25"
         },
         "result": {
-            "id": "d056199f-59a6-41e4-aedc-0c39ef49750d",
-            "url": "https://www.speedtest.net/result/c/d056199f-59a6-41e4-aedc-0c39ef49750d"
+            "id": "d0d863e0-123f-4e2d-91ab-bdee62bbd402",
+            "url": "https://www.speedtest.net/result/c/d0d863e0-123f-4e2d-91ab-bdee62bbd402"
         }
     },
     "SAFE2": {
         "type": "result",
-        "timestamp": "2020-02-15T04:01:34Z",
+        "timestamp": "2020-02-16T04:01:34Z",
         "ping": {
-            "jitter": 0.199,
-            "latency": 58.791
+            "jitter": 0.254,
+            "latency": 59.649
         },
         "download": {
-            "bandwidth": 13314808,
-            "bytes": 184611104,
-            "elapsed": 15016
+            "bandwidth": 13502813,
+            "bytes": 163182600,
+            "elapsed": 12404
         },
         "upload": {
-            "bandwidth": 4073781,
-            "bytes": 32735904,
-            "elapsed": 8112
+            "bandwidth": 3905741,
+            "bytes": 30183472,
+            "elapsed": 7807
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -94,26 +94,26 @@
             "ip": "41.0.144.228"
         },
         "result": {
-            "id": "2a75b5d5-62ab-42db-9638-ef451d98742b",
-            "url": "https://www.speedtest.net/result/c/2a75b5d5-62ab-42db-9638-ef451d98742b"
+            "id": "2f59e761-e648-42ff-8b5f-fe185fdb1143",
+            "url": "https://www.speedtest.net/result/c/2f59e761-e648-42ff-8b5f-fe185fdb1143"
         }
     },
     "SAFE3": {
         "type": "result",
-        "timestamp": "2020-02-15T04:01:57Z",
+        "timestamp": "2020-02-16T04:02:01Z",
         "ping": {
-            "jitter": 0.461,
-            "latency": 95.424
+            "jitter": 0.346,
+            "latency": 92.78
         },
         "download": {
-            "bandwidth": 889552,
-            "bytes": 6328000,
-            "elapsed": 6710
+            "bandwidth": 1040124,
+            "bytes": 14481600,
+            "elapsed": 15010
         },
         "upload": {
-            "bandwidth": 3976089,
-            "bytes": 51388400,
-            "elapsed": 13323
+            "bandwidth": 3181901,
+            "bytes": 26776400,
+            "elapsed": 8518
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -127,26 +127,26 @@
             "ip": "122.0.31.38"
         },
         "result": {
-            "id": "e0c20bf9-7765-4621-bfa1-d4c33ca500fb",
-            "url": "https://www.speedtest.net/result/c/e0c20bf9-7765-4621-bfa1-d4c33ca500fb"
+            "id": "3b69f92d-b6d1-4346-a499-1e131b98d13b",
+            "url": "https://www.speedtest.net/result/c/3b69f92d-b6d1-4346-a499-1e131b98d13b"
         }
     },
     "MARS": {
         "type": "result",
-        "timestamp": "2020-02-15T04:02:24Z",
+        "timestamp": "2020-02-16T04:02:28Z",
         "ping": {
-            "jitter": 0.287,
-            "latency": 141.985
+            "jitter": 0.266,
+            "latency": 144.246
         },
         "download": {
-            "bandwidth": 13612009,
-            "bytes": 157631600,
-            "elapsed": 12504
+            "bandwidth": 13696796,
+            "bytes": 152533104,
+            "elapsed": 12113
         },
         "upload": {
-            "bandwidth": 4151863,
-            "bytes": 44981144,
-            "elapsed": 11206
+            "bandwidth": 3436488,
+            "bytes": 31612808,
+            "elapsed": 9408
         },
         "packetLoss": 0,
         "isp": "Mauritius Telecom",
@@ -160,8 +160,8 @@
             "ip": "102.163.98.18"
         },
         "result": {
-            "id": "2a8c8cc7-ad6d-41e8-a85e-e2936e104cd3",
-            "url": "https://www.speedtest.net/result/c/2a8c8cc7-ad6d-41e8-a85e-e2936e104cd3"
+            "id": "95f60f9d-be79-4915-9dd5-6d3bea686938",
+            "url": "https://www.speedtest.net/result/c/95f60f9d-be79-4915-9dd5-6d3bea686938"
         }
     }
 }
